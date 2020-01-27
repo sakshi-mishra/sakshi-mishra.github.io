@@ -19,7 +19,7 @@
   i18n: google
   gh_user: sakshi-mishra
   repo: modeling_and_analysing_RECS_data_using_dimensionality_reduction-_and_t-SNE
-  url: https://sakshi-mishra.github.io/RECS_data_analysis_and_visualization/Dimensionality_reduction_and_tSNE_viz
+  url: https://sakshi-mishra.github.io/ai-for-energy/2018/05/17/dimensionality-reduction-and-tSNE-viz.html
   img: /static/assets/img/landing/recs-data.png
   desc: Visualizing n-dimensional dataset using t-SNE dimentionality reduction algorithm.
 
@@ -32,6 +32,6 @@
 
 - name: Machine Learning to Draw Insights Using Data From Smart Meters
   i18n: cpython
-  url: https://sakshi-mishra.github.io/PowerData_analysis_modeling_prediction_and_more
+  url: https://sakshi-mishra.github.io/ai-for-energy/2018/01/30/power-data-analysis-modeling-prediction-and-more.html
   img: /static/assets/img/landing/smart-meter.jpg
   desc: Model, analyze, and predict residential power consumption from smart meter data using machine learning.
