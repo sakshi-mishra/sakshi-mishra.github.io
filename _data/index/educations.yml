@@ -1,0 +1,75 @@
+# educations section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Stanford University (Online)
+    i18n: company_a
+  desc:
+    detail: Professional Certificate, Energy Innovation and Emerging Technologies
+    i18n: company_a_desc
+  date:
+    detail: Sep. 2016 - Jan. 2017
+    i18n: company_a_date
+  job:
+    detail: Awarded the certification
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Carnegie Mellon University (Pittsburgh, Pennsylvania)
+    i18n: company_a
+  desc:
+    detail: Master of Science in Energy Science Technology and Policy, concentration - Electrical and Electronics Engineering
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2015 - Dec. 2015
+    i18n: company_a_date
+  job:
+    detail: GPA 4 on 4
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Michigan (Dearborn, Michigan)
+    i18n: company_b
+  desc:
+    detail: Master of Science in Engineering Management (1 semester)
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2014 - Dec. 2014
+    i18n: company_b_date
+  job:
+    detail: GPA 4 on 4
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Deakin University (Geelong, Victoria, Australia)
+    i18n: company_b
+  desc:
+    detail: Bachelor of Technology, Electrical and Electronics Engineering (1 semester abroad)
+    i18n: company_b_desc
+  date:
+    detail: Feb. 2014 - June. 2014
+    i18n: company_b_date
+  job:
+    detail: Bachelor's thesis
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Vellore Institute of Technology (Chennai, Tamilnadu, India)
+    i18n: company_b
+  desc:
+    detail: Bachelor of Technology in Electrical and Electronics Engineering
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2010 - Jun. 2014
+    i18n: company_b_date
+  job:
+    detail: GPA 8.35 on 10
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+

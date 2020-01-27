@@ -1,0 +1,23 @@
+# blog page sections
+- name: Blog
+  href: /blog/
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: AI-for-Energy
+  href: /ai-for-energy/
+
+- name: Energy-Optimization
+  href: /energy-optimization/
+
+- name: Utility-Transformation
+  href: /utility-transformation/
+
+- name: Mobility-Electrification
+  href: /mobility-electrification/
+
+- name: Art
+  href: /art/
+
+# Don't display donation page: change donation to off at file '_config.yml'
+- name: Donate
+  href: /donate/

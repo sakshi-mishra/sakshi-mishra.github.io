@@ -1,0 +1,26 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Journal Articles
+  i18n: jalpc
+  url: https://scholar.google.com/citations?user=4EXUytUAAAAJ&hl=en
+  img: /static/assets/img/landing/journal.jpeg
+  desc: articles published and in-review (peer-reviewed journals)
+
+- name: Conference Papers
+  i18n: cpython
+  url: https://scholar.google.com/citations?user=4EXUytUAAAAJ&hl=en
+  img: /static/assets/img/landing/conference-paper.jpg
+  desc: conference publications
+
+- name: Book Chapters
+  i18n: google
+  url: https://scholar.google.com/citations?user=4EXUytUAAAAJ&hl=en
+  img: /static/assets/img/landing/book-chapter.jpg
+  desc: published, in-publication, and accepted abstract
+
+- name: Software Records
+  i18n: google
+  url: https://www.osti.gov/biblio/1561513
+  img: /static/assets/img/landing/software-record.png
+  desc: Publically accessible repository for using REopt Lite API

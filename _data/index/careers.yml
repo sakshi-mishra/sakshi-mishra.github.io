@@ -1,0 +1,102 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: National Renewable Energy Laboratory (Golden, Colorado)
+    i18n: company_a
+  desc:
+    detail: Working on buidling ai-driven solutions for power systems and buildings including resource and load forecasting. Also, leading the development of REopt Lite tool's API for distributed energy resources integration.
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2018 - present
+    i18n: company_a_date
+  job:
+    detail: Researcher
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: American Electric Power (Tulsa, Oklahoma)
+    i18n: company_b
+  desc:
+    detail: Worked in AEP's West Transmission Planning wing, conducted full-interconnection studies for utility-scale renewable energy projects; Participated in various task forces in SPP and ERCOT.
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2016 - Aug. 2018
+    i18n: company_b_date
+  job:
+    detail: Grid Planning Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University (Pittsburgh, Pennsylvania)
+    i18n: company_b
+  desc:
+    detail: For Energy Transportation and Storage course, incorporated HOMER modeling tool in the syllabus and helped student build grid-connected and off-grid renewable energy generation mdoels incorporating energy storage to analyze economics of their constuction and operations.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2015 - Dec. 2015
+    i18n: company_b_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Black & Veatch (Seattle, Washington)
+    i18n: company_b
+  desc:
+    detail: Worked in B&V's energy practice, studied distribution feeder hosting capacity for the rooftop PV, customer PV adoption predictions for residential + commerical sectors, and fuel cell based plant's feasibility study.
+    i18n: company_b_desc
+  date:
+    detail: May. 2015 - Jul. 2015
+    i18n: company_b_date
+  job:
+    detail: Renewable Energy Engineering Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Michigan (Dearborn, Michigan)
+    i18n: company_b
+  desc:
+    detail: Worked in ECE research lab, researched day-ahead energy consumption scheduling of residential building using MPC.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2014 - Dec. 2014
+    i18n: company_b_date
+  job:
+    detail: Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Deakin University (Geelong, Victoria,  Australia)
+    i18n: company_b
+  desc:
+    detail: Worked in Renewable Energy Lab as full-ride scholar, conducted hardware-in-the-loop experiments to design controls for pv and wind connected residential loads.
+    i18n: company_b_desc
+  date:
+    detail: Feb. 2014 - Jun. 2014
+    i18n: company_b_date
+  job:
+    detail: Research Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Bharat Heavy Electricals Limited (Bhopal, MP,  India)
+    i18n: company_b
+  desc:
+    detail: Conducted cost-effectiveness analysis on the permanent magnet DC traction motor with reconfigurable windings for high-speed locomotion applications.
+    i18n: company_b_desc
+  date:
+    detail: May 2012 - Jun. 2012
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
