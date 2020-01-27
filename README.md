@@ -9,6 +9,4 @@
 #### I am an *energy researcher* by profession, *licensed electrical engineer* by title, and *power systems engineer* by education! 
 
 
-You can read more about my professional journey so far at [sakshi-mishra.github.io](https://sakshi-mishra.github.io/) . It also enlists my recent posts and articles. 
-
-<https://sakshi-mishra.github.io/>
+You can read more about my professional journey so far at [sakshi-mishra.github.io](https://sakshi-mishra.github.io/) . It also enlists my recent posts, projects, and publications. 
