@@ -33,5 +33,5 @@
 - name: Machine Learning to Draw Insights Using Data From Smart Meters
   i18n: cpython
   url: https://sakshi-mishra.github.io/PowerData_analysis_modeling_prediction_and_more
-  img: /static/assets/img/landing/smart-meter.png
+  img: /static/assets/img/landing/smart-meter.jpg
   desc: Model, analyze, and predict residential power consumption from smart meter data using machine learning.
