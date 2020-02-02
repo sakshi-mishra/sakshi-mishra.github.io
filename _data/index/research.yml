@@ -1,37 +1,9 @@
 # Research section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Multi-time-horizon Solar Forecasting
-  i18n: jalpc
-  gh_user: sakshi-mishra
-  repo: solar-forecasting-RNN
-  img: /static/assets/img/landing/solar-1.jpg
-  desc: This project is PyTorch implementation of the unified RNN based architecture for multi-time-horizon Solar Forecasting. 
+# Suggest research' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: LSTM based Unified Architecture for Multi-time-horizon Solar Forecasting
-  i18n: cpython
-  gh_user: sakshi-mishra
-  repo: LSTM_Solar_Forecasting
-  img: /static/assets/img/landing/solar-2.jpg
-  desc: PyTorch implementation (modular as opposed to single script/jupyter notebook) of the unified LSTM based architecture for solar forecasting. 
-
-- name: Modeling and analyzing RECS data using dimentionality reduction and t-SNE
+- name: Current Reseach Interests
   i18n: google
-  gh_user: sakshi-mishra
-  repo: modeling_and_analysing_RECS_data_using_dimensionality_reduction-_and_t-SNE
+  img: /static/assets/img/landing/research.png
   url: https://sakshi-mishra.github.io/ai-for-energy/2018/05/17/dimensionality-reduction-and-tSNE-viz.html
-  img: /static/assets/img/landing/recs-data.png
-  desc: Visualizing n-dimensional dataset using t-SNE dimentionality reduction algorithm.
-
-- name: Clustering of Distribution Feeders with Interactive Visualizations
-  i18n: cpython
-  gh_user: sakshi-mishra
-  repo: clustering-distribution-feeders
-  img: /static/assets/img/landing/feeders.jpeg
-  desc: Python implementation of k-means clustering algorithm for identifying 7-10 representative feeders from 700+ distribution feeders. 
-
-- name: Machine Learning to Draw Insights Using Data From Smart Meters
-  i18n: cpython
-  url: https://sakshi-mishra.github.io/ai-for-energy/2018/01/30/power-data-analysis-modeling-prediction-and-more.html
-  img: /static/assets/img/landing/smart-meter.jpg
-  desc: Model, analyze, and predict residential power consumption from smart meter data using machine learning.
+  desc: Will add SOP and summarize current research interests

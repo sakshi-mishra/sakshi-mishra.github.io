@@ -2,14 +2,11 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
-  title: green planet image
+- src: landing/header_one.png
+  title: Sakshi career trajectory
 
 - src: landing/header_two.jpg
-  title: ai and energy image
+  title: energy and ai
 
-- src: landing/header_three.jpeg
-  title: renewable energy image
-
-- src: landing/header_four.jpg
-  title: green buildings image
+- src: landing/header_three.jpg
+  title: green and clean electricity

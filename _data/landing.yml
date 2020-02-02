@@ -12,6 +12,12 @@
   tpl: research.html
   css: project
 
+- id: projects
+  i18n: nav.projects
+  name: Projects
+  tpl: projects.html
+  css: project
+
 - id: skills
   i18n: nav.skills
   name: Skills
@@ -43,8 +49,8 @@
   page: blog/
   css: testimonials navy-section
 
-- id: links
-  i18n: nav.link
-  name: Links
-  tpl: links.html
+- id: quick-links
+  i18n: nav.quick-links
+  name: Qucik-links
+  tpl: quick-links.html
   css: contact
