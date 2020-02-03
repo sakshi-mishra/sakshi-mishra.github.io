@@ -1,0 +1,34 @@
+<div class="container" id="i18_my-timeline">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="my-timeline.my-timeline">My Timeline</span></h1>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div class="col-lg-12">
+            <div id="vertical-my-timeline" class="vertical-container light-timeline center-orientation">
+            {% for my-timeline in site.data.index.my-timeline %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+                <div class="vertical-timeline-block">
+                    <div class="vertical-timeline-icon {% if my-timeline.present ==  true %} navy-bg-present {% else %} navy-bg {% endif %} wow rotateIn">
+                        <i class="fa {{ my-timeline.icon }}"></i>
+                    </div>
+                    <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
+			<h2>
+			{% if my-timeline.name.url %}
+                  	    <a href="{{ my-timeline.name.url }}" target="_blank"><soan class="navy">{{ my-timeline.name.detail }}</span></a>
+			{% else %}
+			    <span data-i18n="my-timeline.{{ my-timeline.name.i18n }}">{{ my-timeline.name.detail }}</span>
+			{% endif %}
+			</h2>
+                        <p><span data-i18n="my-timeline.{{ my-timeline.desc.i18n }}">{{ my-timeline.desc.detail }} </span></p>
+                        <span class="vertical-date"><span data-i18n="my-timeline.{{ my-timeline.date.i18n }}"> {{ my-timeline.date.detail }} </span>
+                        <br/> <small><span data-i18n="my-timeline.{{ my-timeline.job.i18n }}">{{ my-timeline.job.detail }}</span></small> </span>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

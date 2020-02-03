@@ -6,6 +6,12 @@
   tpl: about.html
   css:
 
+- id: my-timeline
+  i18n: nav.my-timeline
+  name: My-timeline
+  tpl: my-timeline.html
+  css: timeline
+
 - id: research
   i18n: nav.research
   name: Research

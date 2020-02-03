@@ -1,0 +1,82 @@
+# timeline section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: AEE World Conference and Expo 2019
+    i18n: company_a
+    url: https://world.aeecenter.org/speakers/sakshi-mishra/
+  desc:
+    detail: DoE Better Plants Program session - discussed REopt Lite
+    i18n: company_a_desc
+  date:
+    detail: September 2019
+    i18n: company_a_date
+  job:
+    detail: Panel Speaker
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: REopt made NREL headlines
+    i18n: company_a
+    url: https://www.nrel.gov/news/features/2019/virtual-tools-developed-nrel-create-real-world-savings.html
+  desc:
+    detail: NREL news homepage highlighted the capabilities of REopt
+    i18n: company_a_desc
+  date:
+    detail: August 2019
+    i18n: company_a_date
+  job:
+    detail: REopt Lite API development Lead
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Attended 2018 IEEE Energy Conversion Congress and Expo
+    i18n: company_a
+    url: https://ieeexplore.ieee.org/abstract/document/8557447
+  desc:
+    detail: Presented two papers for IEEE publication
+    i18n: company_a_desc
+  date:
+    detail: September 2018
+    i18n: company_a_date
+  job:
+    detail: Presentation and Poster session
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Joined NREL
+    i18n: company_a
+    url: https://www.nrel.gov/research/sakshi-mishra.html
+  desc:
+    detail: Move to Golden, CO to join NREL as a Reseacher
+    i18n: company_a_desc
+  date:
+    detail: August 2018
+    i18n: company_a_date
+  job:
+    detail: Started working on REopt and Intelligent Campus Projects
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Obtained Professional Engineering License
+    i18n: company_a
+    url: https://search.dca.ca.gov/details/7500/E/22357/f047a2d2be102d7d6dec74b4be3cf608
+  desc:
+    detail: P.E. in Electrical Engineering,  state of Califormia
+    i18n: company_a_desc
+  date:
+    detail: April 2018
+    i18n: company_a_date
+  job:
+    detail: Working at AEP
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
