@@ -1,6 +1,38 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: REopt Lite API - Open Sourced
+    i18n: company_a
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6639203033207107584/
+  desc:
+    detail: NREL's behind-the-meter optimization model is open-sourced
+    i18n: company_a_desc
+  date:
+    detail: February 2020
+    i18n: company_a_date
+  job:
+    detail: Technical Lead
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Seminar at Florida International University
+    i18n: company_a
+    url: https://www.cis.fiu.edu/lecture_series/smart-grid-evolution-opportunities-for-applying-ai-based-solutions-in-energy-systems/
+  desc:
+    detail: Smart Grid Evolution - Opportunities for apply AI based solutions in energy systems
+    i18n: company_a_desc
+  date:
+    detail: February 2020
+    i18n: company_a_date
+  job:
+    detail: Invited Speaker
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: AEE World Conference and Expo 2019
     i18n: company_a
     url: https://world.aeecenter.org/speakers/sakshi-mishra/
@@ -14,7 +46,7 @@
     detail: Panel Speaker
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: REopt made NREL headlines
@@ -80,3 +112,50 @@
   icon: fa-plus-square
   present: false
 
+- name:
+    detail: Toastmasters - Competent Communicator
+    i18n: company_a
+    url: https://drive.google.com/file/d/1-KLpiZ1HRnCRitaMfNP7H-IKi5NrCl-O/view?usp=sharing
+  desc:
+    detail: AEP Tulsa Club
+    i18n: company_a_desc
+  date:
+    detail: May 2017
+    i18n: company_a_date
+  job:
+    detail: Competent Communicator Award
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Academic Excellence Award
+    i18n: company_a
+    url: https://drive.google.com/file/d/1NMggWsATI1UeSMzJlTVamFT_XCADust4/view?usp=sharing
+  desc:
+    detail: Carnegie Mellon University
+    i18n: company_a_desc
+  date:
+    detail: May 2016
+    i18n: company_a_date
+  job:
+    detail: Energy Science Technology and Policy
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Joined American Electric Power
+    i18n: company_a
+    url: 
+  desc:
+    detail: Moved to Tulsa, OK to join AEP as a Grid Planning Engineer
+    i18n: company_a_desc
+  date:
+    detail: January 2016
+    i18n: company_a_date
+  job:
+    detail: Joined SPP Voltage Task Force and Advised PSERC projects as Indutry Adviser
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
