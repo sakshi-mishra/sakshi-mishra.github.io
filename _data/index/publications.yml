@@ -5,7 +5,7 @@
   i18n: jalpc
   url: https://scholar.google.com/citations?user=4EXUytUAAAAJ&hl=en
   img: /static/assets/img/landing/journal.jpeg
-  desc: articles published and in-review (peer-reviewed journals)
+  desc: peer-reviewed articles (published and in-review)
 
 - name: Conference Papers
   i18n: cpython
@@ -23,4 +23,4 @@
   i18n: google
   url: https://www.osti.gov/biblio/1561513
   img: /static/assets/img/landing/software-record.png
-  desc: Publically accessible repository for using REopt Lite API
+  desc: publically accessible repository for using REopt Lite API
