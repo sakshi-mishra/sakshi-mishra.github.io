@@ -30,10 +30,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-git
     - name: icon-docker
-  desc: "The way electricity is generated, transmitted and consumed is transforming at an unprecedented pace, with the evolution of the grid as a dynamic network. I am an interdisciplinary researcher who loves to work on the nexus of energy systems and artificial intelligence. Infusing today’s grid with AI to enable its transition to smart grid, by enabling higher levels of renewable penetration, increased reliability, and heightened resiliency - is my goal.
-         \n\n\n
-         My hands-on experience in developing solutions for the renewable energy and distributed energy resources integration challenges, my interdisciplinary skill-set (energy + AI), coupled with the multi-national exposure (India, Australia, and the US) uniquely position me to make useful contributions to the energy industry innovations."
-  # Describe yourself.
+  desc: "<p>The way electricity is generated, transmitted and consumed is transforming at an unprecedented pace, with the evolution of the grid as a dynamic network. I am an interdisciplinary researcher who loves to work on the nexus of energy systems and artificial intelligence. Infusing today’s grid with AI to enable its transition to smart grid, by enabling higher levels of renewable penetration, increased reliability, and heightened resiliency - is my goal.</p>
+         <p>My hands-on experience in developing solutions for the renewable energy and distributed energy resources integration challenges, my interdisciplinary skill-set (energy + AI), coupled with the multi-national exposure (India, Australia, and the US) uniquely position me to make useful contributions to the energy industry innovations.</p>" 
+  greetings: "Hi! I'm Sakshi."
+  extra_desc: "<p>I created this website to share my journey in STEM so far including professional experiences and educational background. I also write about my projects that often lie on the nexus of machine-learning and power systems in the blog section. </p>
+<p>I believe Artificial Intelligence has to offer a lot to classic power systems sciences to accelerate the pace of global energy transformation and this website if my humble attempt to shed light on the tremendous possibilities [AI + Energy] hold when they come together. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
