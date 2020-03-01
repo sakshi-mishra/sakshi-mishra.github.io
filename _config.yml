@@ -11,13 +11,15 @@ img_path: static/assets/img/blog  # url should be '/homepage/static/assets/img/b
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Sakshi Mishra  # Be used at blog posts' author.
+  name: Sakshi Mishra  # Be used at blog posts author.
   first_name: Sakshi  # Be used at index page about me section.
   last_name: Mishra  # Be used at index page about me section.
   avatar: static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatartwo: static/assets/img/landing/avatar_two.jpg  # upload your avatar at directory and edit it.
   github_username: sakshi-mishra  # Leave blank if you don't have now
   linkedin_id: sakshi-mishra-72065564/ # Leave blank if you don't have now
   researchgate_username: Sakshi_Mishra3 
+  googlescholar_userid: 4EXUytUAAAAJ&hl=en
   orcid_id: 0000-0002-5202-8676
   facebook_username:  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
@@ -30,11 +32,10 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-git
     - name: icon-docker
-  desc: "<p>The way electricity is generated, transmitted and consumed is transforming at an unprecedented pace, with the evolution of the grid as a dynamic network. I am an interdisciplinary researcher who loves to work on the nexus of energy systems and artificial intelligence. Infusing today’s grid with AI to enable its transition to smart grid, by enabling higher levels of renewable penetration, increased reliability, and heightened resiliency - is my goal.</p>
-         <p>My hands-on experience in developing solutions for the renewable energy and distributed energy resources integration challenges, my interdisciplinary skill-set (energy + AI), coupled with the multi-national exposure (India, Australia, and the US) uniquely position me to make useful contributions to the energy industry innovations.</p>" 
+  desc: "<p>I am an interdisciplinary researcher who loves to work on the nexus of energy systems and artificial intelligence. Infusing today’s grid with AI to enable its transition to smart grid, by enabling higher levels of renewable penetration, increased reliability, and heightened resiliency - is my goal.</p>"
   greetings: "Hi! I'm Sakshi."
-  extra_desc: "<p>I created this website to share my journey in STEM so far including professional experiences and educational background. I also write about my projects that often lie on the nexus of machine-learning and power systems in the blog section. </p>
-<p>I believe Artificial Intelligence has to offer a lot to classic power systems sciences to accelerate the pace of global energy transformation and this website if my humble attempt to shed light on the tremendous possibilities [AI + Energy] hold when they come together. </p>"
+  extra_desc: "<p>I created this website to share my journey in STEM so far. I also write about my projects, that often lie on the nexus of machine-learning and power systems, in the blog section. </p>
+<p>The way electricity is generated, transmitted, and consumed is transforming at an unprecedented pace. Main drivers being - urgency to address climage change problems and the evolution of the grid as a dynamic network serving eletrified transportation. I believe Artificial Intelligence has a lot to offer to the classical power systems science for enhancing the effectiveness of global energy transformation. So, the blog on this website is aimed at shedding light on the tremendous possibilities [AI + Energy] hold, as they come together. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

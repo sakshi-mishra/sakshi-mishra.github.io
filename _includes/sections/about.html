@@ -32,6 +32,9 @@
                     {% if site.author.researchgate_username %}
                     <li><a href="https://www.researchgate.net/profile/{{ site.author.researchgate_username }}" target="blank"><i class="fa fa-researchgate"></i></a></li>
                     {% endif %}
+                    {% if site.author.googlescholar_userid %}
+                    <li><a href="https://scholar.google.com/citations?user={{ site.author.googlescholar_userid }}" target="blank"><i class="fa fa-google"></i></a></li>
+                    {% endif %}
                     {% if site.author.orcid_id %}
                     <li><a href="https://orcid.org/{{ site.author.orcid_id }}" target="blank"><i class="fa fa-orcid"></i></a></li>
                     {% endif %}
@@ -52,7 +55,7 @@
 	</div>
         </div>
 
-        <img style="align: center" src="{{ site.author.avatar | prepend: site.baseurl }}" height="auto" width="30%" class="img-responsive img-circle" alt="">
+        <img style="align: center" src="{{ site.author.avatar | prepend: site.baseurl }}" height="auto" width="50%" class="img-responsive img-circle" alt="">
     </div>
     <div class="row">
 	    <div class="col-lg-8 col-lg-offset-1 m-t-lg m-b-lg wow zoomIn" style="text-align: left">
