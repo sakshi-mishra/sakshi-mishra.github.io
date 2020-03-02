@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Women @ Energy: STEM Rising
+    i18n: company_a
+    url: https://www.energy.gov/articles/women-energy-sakshi-mishra
+  desc:
+    detail: Featured in Department of Energy's '#WomenInPower impact innovate inspire' series
+    i18n: company_a_desc
+  date:
+    detail: March 2020
+    i18n: company_a_date
+  job:
+    detail: Rising Female Researcher in STEM field
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
     detail: REopt Lite API - Open Sourced
     i18n: company_a
     url: https://www.linkedin.com/feed/update/urn:li:activity:6639203033207107584/
@@ -14,7 +30,7 @@
     detail: Technical Lead
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Seminar at Florida International University
