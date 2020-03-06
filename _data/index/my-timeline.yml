@@ -95,6 +95,22 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: false
+  
+- name:
+    detail: CMU Energy and Innovation Club - Seminar
+    i18n: company_a
+    url: https://twitter.com/CMU_ENERGY/status/1109827210888822791
+  desc:
+    detail: Conducted a hands-on workshop for REopt Lite API
+    i18n: company_a_desc
+  date:
+    detail: March 2018
+    i18n: company_a_date
+  job:
+    detail: Live workshop for using REopt Lite's API
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
 
 - name:
     detail: Joined NREL
