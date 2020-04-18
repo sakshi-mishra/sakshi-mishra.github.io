@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: The AI Journal
+    i18n: company_a
+    url: https://aijourn.com/women-in-tech/
+  desc:
+    detail: Featured in The AI Journal's Women In AI series
+    i18n: company_a_desc
+  date:
+    detail: April 2020
+    i18n: company_a_date
+  job:
+    detail: Female Researcher in Tech field
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
     detail: Women @ Energy STEM Rising
     i18n: company_a
     url: https://www.energy.gov/articles/women-energy-sakshi-mishra
@@ -14,7 +30,7 @@
     detail: Rising Female Researcher in STEM field
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
   
 - name:
     detail: REopt Lite API - Open Sourced
