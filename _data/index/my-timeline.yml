@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Energy Systems Integration Group - Spring Summit
+    i18n: company_a
+    url: https://youtu.be/Zy-fvTGdX_M?t=3674
+  desc:
+    detail: Panel speaker for ESIG's Workshop webinar
+    i18n: company_a_desc
+  date:
+    detail: April 2020
+    i18n: company_a_date
+  job:
+    detail: REopt Lite API dev Lead
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
     detail: The AI Journal
     i18n: company_a
     url: https://aijourn.com/women-in-tech/
@@ -11,10 +27,10 @@
     detail: April 2020
     i18n: company_a_date
   job:
-    detail: Female Researcher in Tech field
+    detail: Tips from Women in Tech
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
   
 - name:
     detail: Women @ Energy STEM Rising
