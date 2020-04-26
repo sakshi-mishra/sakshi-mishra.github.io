@@ -49,6 +49,22 @@
   present: false
   
 - name:
+    detail: CMU Energy Week 2020 - AI & Energy Panel
+    i18n: company_a
+    url: https://www.cmu.edu/energy-week/agenda/cmu-energy-week-2020_draft-agenda.pdf
+  desc:
+    detail: Invited speaker, AI & Energy – Examining the Potential to Bolster Smart Transitions beyond Cybersecurity
+    i18n: company_a_desc
+  date:
+    detail: March 2020 (postponed due to COVID-19)
+    i18n: company_a_date
+  job:
+    detail: Researcher working on the nexus of Energy + AI
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+  
+- name:
     detail: REopt Lite API - Open Sourced
     i18n: company_a
     url: https://www.linkedin.com/feed/update/urn:li:activity:6639203033207107584/
