@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Department of Energy - Your AI Career
+    i18n: company_a
+    url: https://www.energy.gov/articles/your-ai-story-sakshi-mishra
+  desc:
+    detail: Featured for my work in the interdisciplinary Energy and AI research
+    i18n: company_a_desc
+  date:
+    detail: June 2020
+    i18n: company_a_date
+  job:
+    detail: Researcher working with AI and Energy
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
     detail: Science Node - Paths to working with HPC
     i18n: company_a
     url: https://sciencenode.org/feature/Paths%20to%20HPC%20Sakshi%20Mishra.php
@@ -14,7 +30,7 @@
     detail: Energy researcher working with HPC
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Energy Systems Integration Group - Spring Summit
