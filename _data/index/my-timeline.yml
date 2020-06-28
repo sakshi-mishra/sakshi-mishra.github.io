@@ -11,7 +11,7 @@
     detail: June 2020
     i18n: company_a_date
   job:
-    detail: Initiative to help increase diversity in AI field
+    detail: Initiative to help increase female participation in AI field
     i18n: company_a_job
   icon: fa-plus-square
   present: true
