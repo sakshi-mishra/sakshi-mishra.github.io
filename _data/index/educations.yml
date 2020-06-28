@@ -1,13 +1,13 @@
 # educations section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of British Columbia
+    detail: University of British Columbia (Vancouver, British Columbia, Canada)
     i18n: company_a
   desc:
     detail: Doctor of Philosophy, Electrical and Computer Engineering
     i18n: company_a_desc
   date:
-    detail: Sep. 2020 - present
+    detail: Sep. 2020 - []
     i18n: company_a_date
   job:
     detail: On-going
@@ -31,10 +31,10 @@
   present: false
 
 - name:
-    detail: Carnegie Mellon University (Pittsburgh, Pennsylvania)
+    detail: Carnegie Mellon University (Pittsburgh, Pennsylvania, U.S.)
     i18n: company_a
   desc:
-    detail: Master of Science in Energy Science Technology and Policy, concentration - Electrical and Electronics Engineering
+    detail: Master of Science in Energy Science Technology and Policy, concentration - ECE
     i18n: company_a_desc
   date:
     detail: Jan. 2015 - Dec. 2015
@@ -45,7 +45,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Michigan (Dearborn, Michigan)
+    detail: University of Michigan (Dearborn, Michigan, U.S.)
     i18n: company_b
   desc:
     detail: Master of Science in Engineering Management (1 semester)
