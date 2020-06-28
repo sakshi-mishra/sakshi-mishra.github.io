@@ -1,6 +1,38 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Women in AI - Launch Denver AI Chapter
+    i18n: company_a
+    url: https://www.youtube.com/watch?v=_TrrNEOpX6Y&feature=youtu.be
+  desc:
+    detail: WAI inaugural talk with DoE AI Director and NREL researchers
+    i18n: company_a_desc
+  date:
+    detail: June 2020
+    i18n: company_a_date
+  job:
+    detail: Initiative to help increase diversity in AI field
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+- name:
+    detail: Podcast guest - Society of Women Engineers (SWE)
+    i18n: company_a
+    url: https://soundcloud.com/swepodcasts/sustainability-and-tech-go-hand-in-hand
+  desc:
+    detail: Spoke about my STEM career trajectory so far
+    i18n: company_a_desc
+  date:
+    detail: June 2020
+    i18n: company_a_date
+  job:
+    detail: Take of a Female Engineer with Industry + Research Experience
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+  
+- name:
     detail: Department of Energy - Your AI Career
     i18n: company_a
     url: https://www.energy.gov/articles/your-ai-story-sakshi-mishra
@@ -14,7 +46,7 @@
     detail: Researcher working with AI and Energy
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
   
 - name:
     detail: Science Node - Paths to working with HPC
