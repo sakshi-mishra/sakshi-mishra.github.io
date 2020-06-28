@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Energy Modeling, Applied Machine Learning, GitHub, Deep Learning (PyTorch), Ruby, PSSE Power Flow, Optimization, Power Systems Planning, Public-Speaking,Python
-percentage: 90, 70, 75, 80, 20, 55, 70, 80, 65, 75
+aspects: Energy Modeling, Applied Machine Learning, GitHub, Deep Learning (PyTorch), DER Integration, PSSE Power Flow, Optimization, Power Systems Planning, Public-Speaking,Python
+percentage: 90, 70, 75, 80, 85, 55, 70, 80, 65, 75
