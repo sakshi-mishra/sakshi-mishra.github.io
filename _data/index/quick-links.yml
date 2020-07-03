@@ -1,13 +1,7 @@
 # links section data
-- last_name: Researcher
-  first_name: NREL
-  desc: NREL profile
-  website: https://www.nrel.gov/research/sakshi-mishra.html
-  email: sakshi.mishra@nrel.gov
-
-- last_name: Professional Engineer
-  first_name: Licensed
-  desc: In state of California
+- last_name: Licensed
+  first_name: Professional Engineer
+  desc: P.E. California
   website: https://search.dca.ca.gov/details/7500/E/22357/f047a2d2be102d7d6dec74b4be3cf608
   email: sakshimishra732@gmail.com
 
@@ -29,11 +23,16 @@
   website: https://orcid.org/0000-0002-5202-8676
   email: sakshimishra732@gmail.com
 
-
 - last_name: Github
   first_name: Profile
-  desc: Personal and Open-sourced Github Repositories
+  desc: Open-sourced Projects
   website: https://github.com/sakshi-mishra
   email: sakshimishra732@gmail.com
+  
+- last_name: NREL
+  first_name: Researcher
+  desc: NREL profile
+  website: https://www.nrel.gov/research/staff/sakshi-mishra.html
+  email: sakshi.mishra@nrel.gov
 
 
