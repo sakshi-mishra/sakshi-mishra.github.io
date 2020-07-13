@@ -113,6 +113,22 @@
   present: false
   
 - name:
+    detail: REopt Open Source Webinar 
+    i18n: company_a
+    url: https://www.youtube.com/watch?v=oRrXJieAWkM&feature=youtu.be&t=266
+  desc:
+    detail: Panelist for REopt Lite's Open Source Review Webinar
+    i18n: company_a_desc
+  date:
+    detail: March 2020
+    i18n: company_a_date
+  job:
+    detail: REopt Lite API - R&D Lead
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+  
+- name:
     detail: CMU Energy Week 2020 - AI & Energy Panel
     i18n: company_a
     url: https://www.cmu.edu/energy-week/agenda/cmu-energy-week-2020_draft-agenda.pdf
