@@ -1,21 +1,6 @@
 # educations section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of British Columbia (Vancouver, British Columbia, Canada)
-    i18n: company_a
-  desc:
-    detail: Doctor of Philosophy, Electrical and Computer Engineering
-    i18n: company_a_desc
-  date:
-    detail: Sep. 2020 - []
-    i18n: company_a_date
-  job:
-    detail: On-going
-    i18n: company_a_job
-  icon: fa-plus-square
-  present: true
-
-- name:
     detail: Stanford University (Online)
     i18n: company_a
   desc:
@@ -28,7 +13,7 @@
     detail: Awarded the certification
     i18n: company_a_job
   icon: fa-plus-square
-  present: false
+  present: true
 
 - name:
     detail: Carnegie Mellon University (Pittsburgh, Pennsylvania, U.S.)
