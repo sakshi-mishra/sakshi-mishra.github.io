@@ -1,6 +1,38 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Podcast guest - The Alan Turing Institute (Data Driven channel)
+    i18n: company_a
+    url: https://www.youtube.com/watch?v=hYyQJ2Bdhu0&feature=youtu.be
+  desc:
+    detail: How to Build a Career in Energy Analytics and AI
+    i18n: company_a_desc
+  date:
+    detail: July 2020
+    i18n: company_a_date
+  job:
+    detail: Chat with The Alan Turing Institute professor Ganna Pogrebna
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: International Conference on  'AL and ML Applications in Smart Buildings'
+    i18n: company_a
+    url: https://drive.google.com/file/d/1IxZH6PsM9bRNDIFOyZOTgVJvXubfHUmI/view?usp=sharing
+  desc:
+    detail: Keynote speaker
+    i18n: company_a_desc
+  date:
+    detail: July 2020
+    i18n: company_a_date
+  job:
+    detail: Behind-The-Meter Renewable Energy Optimization for Smart Buildings and Campuses – REopt Lite
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: Women in AI - Launch Denver AI Chapter
     i18n: company_a
     url: https://youtu.be/_TrrNEOpX6Y?t=215
@@ -14,7 +46,7 @@
     detail: Initiative to help increase female participation in AI field
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
   
 - name:
     detail: Podcast guest - Society of Women Engineers (SWE)
