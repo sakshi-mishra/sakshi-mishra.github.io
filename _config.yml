@@ -10,20 +10,20 @@ url: https://sakshi-mishra.github.io  # url should be 'http://<github_username>.
 img_path: static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
+author: 
   name: Sakshi Mishra  # Be used at blog posts author.
   first_name: Sakshi  # Be used at index page about me section.
   last_name: Mishra  # Be used at index page about me section.
   avatar: static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   avatartwo: static/assets/img/landing/avatar_two.jpg  # upload your avatar at directory and edit it.
-  github_username: sakshi-mishra  # Leave blank if you don't have now
-  linkedin_id: sakshi-mishra-72065564/ # Leave blank if you don't have now
+  github_username: sakshi-mishra  
+  linkedin_id: sakshi-mishra-72065564/ 
   researchgate_username: Sakshi_Mishra3 
   googlescholar_userid: 4EXUytUAAAAJ&hl=en
   orcid_id: 0000-0002-5202-8676
-  facebook_username:  # Leave blank if you don't have now
+  facebook_username:  # Leaving blank since I am not on FB
   twitter_username:  SakshiMishra_1
-  email: sakshimishra732@gmail.com  # Leave blank if you don't have now
+  email: sakshimishra732@gmail.com  
   cv: https://drive.google.com/file/d/1uQq4KXqYKeJrNEi7qJVs_37Cg-sx4YX2/view?usp=sharing # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -34,8 +34,8 @@ author:  # change following line to your infomation.
     - name: icon-docker
   desc: "<p>I am an interdisciplinary researcher who loves to work on the nexus of energy systems and artificial intelligence. Infusing today’s grid with AI to enable its transition to smart grid, by enabling higher levels of renewable penetration, increased reliability, and heightened resiliency - is my goal.</p>"
   greetings: "Hi! I'm Sakshi."
-  extra_desc: "<p>I created this website to share my journey in STEM so far. I also write about my projects, that often lie on the nexus of machine-learning and power systems, in the blog section. </p>
-<p>The way electricity is generated, transmitted, and consumed is transforming at an unprecedented pace. Main drivers being - urgency to address climage change problems and the evolution of the grid as a dynamic network serving eletrified transportation. I believe Artificial Intelligence has a lot to offer to the classical power systems science for enhancing the effectiveness of global energy transformation. So, the blog on this website is aimed at shedding light on the tremendous possibilities [AI + Energy] hold, as they come together. </p>"
+  extra_desc: "<p>I created this website to share my STEM journey. </p>
+<p>The way electricity is generated, transmitted, and consumed is transforming at an unprecedented pace. Main drivers being - urgency to address climage change problems and the evolution of the grid as a dynamic network serving eletrified transportation. I believe AI has a lot to offer to the classical power systems science for enhancing the effectiveness of global energy transformation. So, the blog on this website is aimed at shedding light on the tremendous possibilities [AI + Energy] hold, as they come together. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
