@@ -3,17 +3,14 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Blockchain
+  href: /blockchain/
+
 - name: AI-for-energy
   href: /ai-for-energy/
-
-- name: Energy-optimization
-  href: /energy-optimization/
-
-- name: Utility-transformation
-  href: /utility-transformation/
-
-- name: Mobility-electrification
-  href: /mobility-electrification/
+  
+- name: Energy-transformation
+  href: /energy-transformation/
 
 - name: Art
   href: /art/
