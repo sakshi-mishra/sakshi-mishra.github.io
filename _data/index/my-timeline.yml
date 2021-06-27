@@ -16,7 +16,7 @@
   icon: fa-plus-square
   present: false
   
-  - name:
+- name:
     detail: Chairman’s Award for Exceptional Performance - NREL
     i18n: company_a
     url: https://drive.google.com/file/d/1snfR1ozMyoz9njqXhdEFQrQyPpjuHspw/view?usp=sharing
