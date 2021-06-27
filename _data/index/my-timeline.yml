@@ -1,11 +1,11 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Cleantech Innovator Award - CELI
+    detail: Cleantech Innovator Award by CELI
     i18n: company_a
     url: https://www.linkedin.com/posts/cleanenergyleaders_celi-empower20-activity-6705143561622499328-inbv/
   desc:
-    detail: Honored to receive this awared from Clean Energy Leadership Institute (CELI)
+    detail: Honored to receive this award from Clean Energy Leadership Institute (CELI)
     i18n: company_a_desc
   date:
     detail: August 2020
