@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Pint of Science - Invited Speaker
+    i18n: company_a
+    url: https://www.youtube.com/watch?v=_C-8LsPh4pY&t=2076s
+  desc:
+    detail: Topic - AI need you
+    i18n: company_a_desc
+  date:
+    detail: September 2020
+    i18n: company_a_date
+  job:
+    detail: STEM outreach, advocating for Women in AI
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: Cleantech Innovator Award by CELI
     i18n: company_a
     url: https://www.linkedin.com/posts/cleanenergyleaders_celi-empower20-activity-6705143561622499328-inbv/
