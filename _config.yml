@@ -32,10 +32,10 @@ author:
   skill_icon2:
     - name: icon-git
     - name: icon-docker
-  desc: "<p>I am an interdisciplinary researcher who loves to work on the nexus of energy systems and artificial intelligence. Infusing today’s grid with AI to enable its transition to smart grid, by enabling higher levels of renewable penetration, increased reliability, and heightened resiliency - is my goal.</p>"
+  desc: "<p>I am an interdisciplinary applied researcher who loves to work on the nexus of energy systems, blockchain technology, and artificial intelligence. Infusing today’s grid with advanced intelligence using Blockchain and AI to enable its transition to smart(er) grid, by enabling more clean energy integration, increased reliability, and heightened resiliency - is my goal.</p>"
   greetings: "Hi! I'm Sakshi."
-  extra_desc: "<p>I created this website to share my STEM journey. </p>
-<p>The way electricity is generated, transmitted, and consumed is transforming at an unprecedented pace. Main drivers being - urgency to address climage change problems and the evolution of the grid as a dynamic network serving eletrified transportation. I believe AI has a lot to offer to the classical power systems science for enhancing the effectiveness of global energy transformation. So, the blog on this website is aimed at shedding light on the tremendous possibilities [AI + Energy] hold, as they come together. </p>"
+  extra_desc: "<p>I have created this website to share my STEM journey. </p>
+<p>Electricity is the bedrock of the modern life - from powering the smart phones to computers to electronic appliances - it is knit in the very fabric of life today. Energy systems, that generate and transport electricity, are undergoing a major transformation worldwide. Main drivers being - urgency to address climage change problems and technological evolution of the grid as a dynamic network enabling electrified tranportation, Internet-of-Things, and many more cutting edge technologies. I believe Blockchain and AI has a lot to offer to the classical power systems science for enhancing the effectiveness of global energy transformation. So, the blog on this website is aimed at sharing my learnings as I continue my quest to innovate blockchain-based solutions for energy systems. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
