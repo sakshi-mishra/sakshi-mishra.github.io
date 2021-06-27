@@ -1,11 +1,27 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: REEL Award - Featured in Remesh
+    i18n: company_a
+    url: https://drive.google.com/file/d/1KEC6tMYQvae3liU3nvrvWnNQdBDR6Jms/view
+  desc:
+    detail: Research & Equitable Leadership Award Honoree
+    i18n: company_a_desc
+  date:
+    detail: October 2020
+    i18n: company_a_date
+  job:
+    detail: 50 most influential corporate and agency insights leaders of the day by Remesh - those who start fresh conversations at scale through notable thought leadership.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: Pint of Science - Invited Speaker
     i18n: company_a
     url: https://www.youtube.com/watch?v=_C-8LsPh4pY&t=2076s
   desc:
-    detail: Topic - AI need you
+    detail: Topic - AI needs you
     i18n: company_a_desc
   date:
     detail: September 2020
