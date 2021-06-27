@@ -1,7 +1,7 @@
 # educations section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of British Columbia (Online currenlty | Vancouver, BC, Canada)
+    detail: University of British Columbia (Vancouver, BC, Canada | in-person starting Jan 2021)
     i18n: company_a
   desc:
     detail: Ph.D., Electrical and Computer Engineering
