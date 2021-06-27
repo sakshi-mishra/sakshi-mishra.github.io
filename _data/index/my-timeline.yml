@@ -5,7 +5,7 @@
     i18n: company_a
     url: https://www.youtube.com/watch?v=2jEmf63ZNyQ
   desc:
-    detail: Topic - Data Science & Optimization - REopt Lite
+    detail: Topic - Data Science & Optimization and REopt Lite
     i18n: company_a_desc
   date:
     detail: November 2020
