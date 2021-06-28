@@ -33,6 +33,22 @@
   present: false
 
 - name:
+    detail: Women in Data Science - Invited Speaker
+    i18n: company_a
+    url: https://youtu.be/HyeHN3yBzdQ?t=680
+  desc:
+    detail: Topic - Making an Impactw with Data
+    i18n: company_a_desc
+  date:
+    detail: September 2020
+    i18n: company_a_date
+  job:
+    detail: Sharing experience - Energy and Data Science
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: Pint of Science - Invited Speaker
     i18n: company_a
     url: https://www.youtube.com/watch?v=_C-8LsPh4pY&t=2076s
