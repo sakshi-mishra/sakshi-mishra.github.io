@@ -4,9 +4,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
 
-# Hello, World! I am Sakshi Mishra.
+## Hello, World! I am Sakshi Mishra.
 
-#### I am an *all things energy* researcher by <ins>profession</ins>, *licensed electrical engineer* by <u>title</u>, and *applied blockchain and AI enthusiast* by <u>curiosity</u>! 
+I am an <ins>all things energy researcher</ins> by *profession*, <ins>licensed electrical engineer</ins> by *title*, and <ins>applied blockchain and AI enthusiast</ins> by *curiosity*! 
 
 
 You can read more about my professional journey so far at [sakshi-mishra.github.io](https://sakshi-mishra.github.io/) . It also enlists my recent posts, projects, and publications. 
