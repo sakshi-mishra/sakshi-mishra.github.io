@@ -6,7 +6,7 @@
 
 # Hello, World! I am Sakshi Mishra.
 
-#### I am an *energy + AI researcher* by profession, *licensed electrical engineer* by title, and *power systems engineer* by education! 
+#### I am an *all things energy* researcher by <ins>profession</ins>, *licensed electrical engineer* by <u>title</u>, and *applied blockchain and AI enthusiast* by <u>curiosity</u>! 
 
 
 You can read more about my professional journey so far at [sakshi-mishra.github.io](https://sakshi-mishra.github.io/) . It also enlists my recent posts, projects, and publications. 
