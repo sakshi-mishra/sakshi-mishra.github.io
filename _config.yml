@@ -3,7 +3,7 @@
 # Website settings
 title: Sakshi
 description: Sakshi's portfolio, projects, and blog
-keywords: Sakshi,renewable-energy,ai for energy,applied machine learning,power systems,distributed energy resources,optimization
+keywords: Sakshi,ai for energy,applied machine learning, clearn energy, blockchain, deep learning
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://sakshi-mishra.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -32,10 +32,10 @@ author:
   skill_icon2:
     - name: icon-git
     - name: icon-docker
-  desc: "<p>I am an interdisciplinary applied researcher who loves to work on the nexus of energy systems, blockchain technology, and artificial intelligence. Infusing today’s grid with advanced intelligence using Blockchain and AI to enable its transition to smart(er) grid, by enabling more clean energy integration, increased reliability, and heightened resiliency - is my goal.</p>"
+  desc: "<p>I am an interdisciplinary applied AI researcher who loves to work on the nexus of artificial intelligence, blockchain technology, and autonomous energy systems. I work on infusing today’s physical energy systems with advanced intelligence using AI to enable its transition to smart(er) grid. </p>"
   greetings: "Hi! I'm Sakshi."
   extra_desc: "<p>I have created this website to share my STEM journey. </p>
-<p>Electricity is the bedrock of modern life - from powering smartphones to computers to electronic appliances - it is knit in the very fabric of life today. Energy systems, that generate and transport electricity, are undergoing a major transformation worldwide. Main drivers being - the urgency to address climate change problems and the technological evolution of the grid as a dynamic network enabling Electrified Transportation, Internet-of-Things, and many more modern technologies. I believe Blockchain and AI have a lot to offer to the classical power systems science for enhancing the effectiveness of this global energy transformation. So, the blog on this website is aimed at sharing my learnings as I continue my quest to innovate blockchain-based solutions for energy systems. </p>"
+<p>Electricity is the bedrock of modern life - from powering smartphones to computers to electronic appliances - it is knit in the very fabric of life today. Enhancing the intelligence of existing power systems grid to enable it for efficient and autonomous operations is very much needed for transitioning to a sustainable energy future of the planet. That is where I focus my efforts. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
