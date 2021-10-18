@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Energy Modeling, Applied Machine Learning, Git, Deep Learning (PyTorch), DER Integration, Blockchain, Optimization, Power Systems Planning, Public-Speaking,Python Programming
-percentage: 90, 70, 75, 80, 85, 70, 50, 80, 90, 75
+aspects: Applied Machine Learning, Energy Modeling, Git, Deep Learning (PyTorch), DER Integration, Blockchain, Optimization, Power Systems Planning, Public-Speaking, Python Programming
+percentage: 85, 90, 75, 80, 85, 70, 50, 80, 90, 75
