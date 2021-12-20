@@ -12,11 +12,11 @@
   tpl: my-timeline.html
   css: timeline
 
-- id: research
-  i18n: nav.research
-  name: Research
-  tpl: research.html
-  css: project
+#- id: research
+#  i18n: nav.research
+#  name: Research
+#  tpl: research.html
+#  css: project
 
 - id: projects
   i18n: nav.projects
