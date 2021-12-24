@@ -1,19 +1,34 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Microsoft (Bellevue, Washington, U.S.)
+    i18n: company_a
+  desc:
+    detail: Working on building AI blocks for Autonomous Systems
+    i18n: company_a_desc
+  date:
+    detail: Nov 2021 - Present
+    i18n: company_a_date
+  job:
+    detail: Senior AI Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: National Renewable Energy Laboratory (Golden, Colorado, U.S.)
     i18n: company_a
   desc:
-    detail: Working on building AI-driven solutions for energy systems and buildings including resource and load forecasting. Also, leading the development of REopt Lite tool's API for distributed energy resources integration (sabbatical from Jan 2021 to Aug 2021).
+    detail: Worked on creating AI-driven solutions for energy systems and buildings including resource and load forecasting. Also, led the development of REopt Lite API for DER integration (sabbatical from Jan 2021 to Aug 2021).
     i18n: company_a_desc
   date:
-    detail: Aug. 2018 - present
+    detail: Aug. 2018 - Nov 2021
     i18n: company_a_date
   job:
     detail: Staff Researcher
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: University of British Columbia (Vancouver, BC, Canada)
