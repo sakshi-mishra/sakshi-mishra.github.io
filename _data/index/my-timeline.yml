@@ -1,6 +1,70 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Forbes 30 Under 30 (Energy) Honoree (2022)
+    i18n: company_a
+    url: https://www.forbes.com/profile/sakshi-mishra/?sh=579797de49fb
+  desc:
+    detail: North American List
+    i18n: company_a_desc
+  date:
+    detail: December 2021
+    i18n: company_a_date
+  job:
+    detail: The American lists recognize 600 business and industry figures, with 30 selected in twenty industries each.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Joined Microsoft
+    i18n: company_a
+    url: https://www.microsoft.com/en-us/ai/autonomous-systems
+  desc:
+    detail: Moved to WA to join Microsoft as Sr. AI Engineer
+    i18n: company_a_desc
+  date:
+    detail: November 2021
+    i18n: company_a_date
+  job:
+    detail: Working on building AI Blocks for Autonomy.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Joined
+    i18n: company_a
+    url: https://www.forbes.com/profile/sakshi-mishra/?sh=579797de49fb
+  desc:
+    detail: North American List
+    i18n: company_a_desc
+  date:
+    detail: December 2021
+    i18n: company_a_date
+  job:
+    detail: The American lists recognize 600 business and industry figures, with 30 selected in twenty industries each.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Stanford Magic Lab - Invited Speaker
+    i18n: company_a
+    url: https://magiclab.stanford.edu/research/lab
+  desc:
+    detail: Topic - Blockchain for Energy Systems 
+    i18n: company_a_desc
+  date:
+    detail: October 2021
+    i18n: company_a_date
+  job:
+    detail: Potential of Blockchain Technology to revolutionize Peer-to-Peer Energy Trading
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: Hawaii Data Science Institute - Invited Speaker
     i18n: company_a
     url: https://www.youtube.com/watch?v=2jEmf63ZNyQ
@@ -69,7 +133,7 @@
     i18n: company_a
     url: https://www.linkedin.com/posts/cleanenergyleaders_celi-empower20-activity-6705143561622499328-inbv/
   desc:
-    detail: Honored to receive this award from Clean Energy Leadership Institute (CELI)
+    detail: Received this recognition from Clean Energy Leadership Institute (CELI)
     i18n: company_a_desc
   date:
     detail: August 2020
@@ -140,6 +204,22 @@
     i18n: company_a_date
   job:
     detail: Behind-The-Meter Renewable Energy Optimization for Smart Buildings and Campuses – REopt Lite
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Podcast guest - So you want to be a Data Scientist?
+    i18n: company_a
+    url: https://www.soyouwanttobeadatascientist.com/post/episode-11-data-science-in-research-with-sakshi-mishra
+  desc:
+    detail: Data Science in Research with Sakshi Mishra
+    i18n: company_a_desc
+  date:
+    detail: July 2020
+    i18n: company_a_date
+  job:
+    detail: Chat with Misra Turp about AI in Energy Research field
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -385,11 +465,11 @@
   present: false
 
 - name:
-    detail: Joined NREL
+    detail: Joined National Renewable Energy Laboratory
     i18n: company_a
     url: https://www.nrel.gov/research/sakshi-mishra.html
   desc:
-    detail: Move to Golden, CO to join NREL as a Reseacher
+    detail: Moved to Golden, CO to join NREL as a Reseacher
     i18n: company_a_desc
   date:
     detail: August 2018
@@ -401,7 +481,7 @@
   present: false
 
 - name:
-    detail: Obtained Professional Engineering License
+    detail: Earned Professional Engineering License
     i18n: company_a
     url: https://search.dca.ca.gov/details/7500/E/22357/f047a2d2be102d7d6dec74b4be3cf608
   desc:
