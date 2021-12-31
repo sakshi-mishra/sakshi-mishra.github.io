@@ -3,7 +3,7 @@
 # Website settings
 title: Sakshi
 description: Sakshi's portfolio, projects, and blog
-keywords: Sakshi,ai for energy,applied machine learning, clearn energy, blockchain, deep learning
+keywords: Sakshi,autonomous systems, applied machine learning, electric mobility, clean energy, blockchain, deep learning
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://sakshi-mishra.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -34,7 +34,7 @@ author:
     - name: icon-docker
   desc: "<p>I am an interdisciplinary applied AI research engineer who loves to work on the nexus of artificial intelligence, blockchain technology, and autonomous systems. I work on infusing today’s physical systems with AI. </p>"
   greetings: "Hi! I'm Sakshi."
-  extra_desc: "<p>I have created this website to share my professional journey. </p>"
+  extra_desc: "<p>I am currently focused on building AI based solutions for electric mobility. In the past, I have worked on building AI based solution for clean energy integration challenges. I have created this website to share my professional journey. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
