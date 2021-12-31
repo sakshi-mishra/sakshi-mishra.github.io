@@ -2,14 +2,14 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
-  title: ai and sustainable development
+- src: landing/header_one.png
+  title: Forbes 30 Under 30
 
 - src: landing/header_two.jpg
   title: energy and ai
 
-- src: landing/header_three.png
-  title: blockchain a revolutionary technology
+- src: landing/header_three.jpg
+  title: ai and sustainable development
 
 - src: landing/header_four.jpg
   title: autonomous and connected systems
