@@ -33,22 +33,6 @@
   present: false
 
 - name:
-    detail: Joined
-    i18n: company_a
-    url: https://www.forbes.com/profile/sakshi-mishra/?sh=579797de49fb
-  desc:
-    detail: North American List
-    i18n: company_a_desc
-  date:
-    detail: December 2021
-    i18n: company_a_date
-  job:
-    detail: The American lists recognize 600 business and industry figures, with 30 selected in twenty industries each.
-    i18n: company_a_job
-  icon: fa-plus-square
-  present: false
-
-- name:
     detail: Stanford Magic Lab - Invited Speaker
     i18n: company_a
     url: https://magiclab.stanford.edu/research/lab
