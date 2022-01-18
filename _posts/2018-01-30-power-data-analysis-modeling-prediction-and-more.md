@@ -5,7 +5,7 @@ date:   2018-01-30
 desc: "Analyze smart meter data by coding in Python!"
 keywords: "machine-learning, smart-meter-data, energy-prediction"
 categories: [energy-transformation]
-tags: [sakshi-mishra, ai-for-energy]
+tags: [sakshi-mishra, energy-transformation]
 icon: icon-html
 ---
 ---
