@@ -4,7 +4,7 @@ title:  "RECS data - Visualization through dimensionality reduction using t-SNE"
 date:   2018-05-17
 desc: "To visualze RECS 2009 (n-dimensional data) and use feature reduction techniques to understand the impact of type of housing unit on the energy consumption pattern,, implemented in Python"
 keywords: "machine-learning, energy-consumption-data, visualization"
-categories: [AI-for-Energy]
+categories: [energy-transformation]
 tags: [sakshi-mishra, AI-for-Energy]
 icon: icon-html
 ---

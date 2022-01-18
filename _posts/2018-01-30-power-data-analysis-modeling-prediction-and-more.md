@@ -4,7 +4,7 @@ title:  "Using Machine Learning to draw insights from smart meter data"
 date:   2018-01-30
 desc: "Analyze smart meter data by coding in Python!"
 keywords: "machine-learning, smart-meter-data, energy-prediction"
-categories: [AI-for-Energy]
+categories: [energy-transformation]
 tags: [sakshi-mishra, ai-for-energy]
 icon: icon-html
 ---
