@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: VIT University Distinguished Alumni - Chancellor’s Special Award
+    i18n: company_a
+    url: https://www.linkedin.com/posts/vellore-institute-of-technology_vit-velloreinstituteoftechnology-alumnisakshimishra-activity-6890163974986362880-7C3R
+  desc:
+    detail: Global Alumni Base
+    i18n: company_a_desc
+  date:
+    detail: January 2022
+    i18n: company_a_date
+  job:
+    detail: Given to the most successful alumni of VIT institute (across all the campuses) based on their significant contributions and achievements.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: Forbes 30 Under 30 (Energy) Honoree (2022)
     i18n: company_a
     url: https://www.forbes.com/profile/sakshi-mishra/?sh=579797de49fb
