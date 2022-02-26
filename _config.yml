@@ -32,9 +32,9 @@ author:
   skill_icon2:
     - name: icon-git
     - name: icon-docker
-  desc: "<p>I am an interdisciplinary applied AI research engineer who loves to work on the nexus of artificial intelligence, blockchain technology, and autonomous systems. I work on infusing today’s physical systems with AI. </p>"
+  desc: "<p>I am an interdisciplinary applied AI research engineer working on the nexus of artificial intelligence, blockchain technology, and autonomous systems. I work on infusing today’s physical systems with AI - contributing to building technologies that help reduce carbon footprint of energy and transportation sectors. </p>"
   greetings: "Hi! I'm Sakshi."
-  extra_desc: "<p>I am currently focused on building AI based solutions for electric mobility. In the past, I have worked on building AI based solution for clean energy integration challenges. I have created this website to share my professional journey. </p>"
+  extra_desc: "<p>I am currently focused on building AI based platform solution for electric mobility. In the past, I have worked on building tools for clean energy integration addressing the challenges associated with Distributed Energy Resources (DER) large-scale deployment. I have created this website to share my professional journey. </p>"
 
 # comment
 #disqus:  # if you want the comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
