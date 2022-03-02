@@ -5,7 +5,7 @@ date:   2022-03-01
 desc: "My musings about my love for philosophy - and its role in an individual's journey of self-discovery."
 keywords: "philosophy, self-discovery, growth"
 categories: [Musings]
-tags: [sakshi-mishra, growth]
+tags: [sakshi-mishra, musings]
 icon: icon-html
 ---
 
