@@ -12,8 +12,8 @@
 - name: Energy-transformation
   href: /energy-transformation/
 
-- name: Art
-  href: /art/
+- name: Musings
+  href: /musings/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
