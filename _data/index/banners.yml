@@ -5,11 +5,14 @@
 - src: landing/header_one.png
   title: Forbes 30 Under 30
 
-- src: landing/header_two.jpg
-  title: energy and ai
+- src: landing/header_two.png
+  title: Career Trajectory
 
 - src: landing/header_three.jpg
-  title: ai and sustainable development
+  title: energy and ai
 
 - src: landing/header_four.jpg
+  title: ai and sustainable development
+
+- src: landing/header_five.jpg
   title: autonomous and connected systems
