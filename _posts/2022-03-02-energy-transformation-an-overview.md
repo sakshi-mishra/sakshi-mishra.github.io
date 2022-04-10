@@ -24,7 +24,7 @@ On the other hand, forces behind the *Digital Transformation* of the energy sect
 1. Large scale Distributed Energy Resources (DER) deployment - driven by increased scales of production and falling costs - leading to higher levels of adoption.
 2. Proliferation of the consumer level information and communications technologies - leading to the Internet-of-Things (IoT) age of hyper-connectivity.
 3. Wide-spread deployment of measurement and sensing infrastructure- due to decreasing sensor costs - leading to plethora of data availability and the potential to harness it for operational savings.
-4. Growing number of electric vehicles on the roads - even higher adoption predicted in the near future - needing digital solutions of Vehicle-to-Grid energy storage interations.
+4. Growing number of electric vehicles on the roads - even higher adoption predicted in the near future - needing digital solutions of Vehicle-to-Grid energy storage interactions.
 5. Increase in "grid-responsive high-performance" buildings equipped with advanced analytics and controls - offering opportunities for operational savings
     
 
