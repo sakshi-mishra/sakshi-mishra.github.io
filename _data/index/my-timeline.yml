@@ -1,6 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: "[Career Achievement] IEEE Grade Elevation - Senior Member"
+    i18n: company_a
+    url: https://drive.google.com/file/d/1c2pwY5YqVBF3Vl2CEAfCZJvOXdZmyf3N/view?usp=sharing
+  desc:
+    detail: IEEE Senior Member
+    i18n: company_a_desc
+  date:
+    detail: February 2022
+    i18n: company_a_date
+  job:
+    detail: Senior Membership is an honor bestowed only to those who have made significant contributions to the profession.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: "[Award] VIT University Distinguished Alumni - Chancellor’s Special Award"
     i18n: company_a
     url: https://www.linkedin.com/posts/vellore-institute-of-technology_vit-velloreinstituteoftechnology-alumnisakshimishra-activity-6890163974986362880-7C3R
