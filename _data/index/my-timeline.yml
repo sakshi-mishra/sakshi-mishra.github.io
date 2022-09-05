@@ -1,11 +1,59 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: "[Panelist] Predictive Analytics World Climate"
+    i18n: company_a
+    url: https://predictiveanalyticsworldclimate.com/speakers/2022-north-america/
+  desc:
+    detail: Invited speaker, participated on the Energy Panel
+    i18n: company_a_desc
+  date:
+    detail: June 2022
+    i18n: company_a_date
+  job:
+    detail: "Deep technical conversation on ML for green energy: the relevant ML methods, challenges, data, and applications to energy supply/demand forecasting, grid management, energy efficiency, and more."
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "[Commencement Speaker] Carnegie Mellon University EST&P Graduation Ceremony"
+    i18n: company_a
+    url: https://www.cmu.edu/engineering/estp/news/2022/news-article.html
+  desc:
+    detail: Commencement Guest and Speaker at EST&P Program at CMU
+    i18n: company_a_desc
+  date:
+    detail: May 2022
+    i18n: company_a_date
+  job:
+    detail: Shared insights from my non-linear career trajectory with brilliant new graduates.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "[Keynote Speaker] ARPA-E Energy Innovation Summit"
+    i18n: company_a
+    url: https://www.arpae-summit.com/Students/Student-Program-Agenda
+  desc:
+    detail: Keynote Speaker at the Student Project Opening Lunch
+    i18n: company_a_desc
+  date:
+    detail: May 2022
+    i18n: company_a_date
+  job:
+    detail: Shared insights from my Energy + AI career to highlight the potential energy field holds.
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: "[Keynote Speaker] Joint Institute for Strategic Energy Analysis (JISEA) Annual Meeting "
     i18n: company_a
     url: https://www.jisea.org/news/2022/2022-jisea-annual-meeting.html
   desc:
-    detail: Key Speaker, JISEA (NREL)
+    detail: Keynote Speaker, JISEA (NREL)
     i18n: company_a_desc
   date:
     detail: April 2022
@@ -369,7 +417,7 @@
   present: false
 
 - name:
-    detail: "[Panel Speaker] Energy Systems Integration Group - Spring Summit"
+    detail: "[Panelist] Energy Systems Integration Group - Spring Summit"
     i18n: company_a
     url: https://youtu.be/Zy-fvTGdX_M?t=3674
   desc:
@@ -417,11 +465,11 @@
   present: false
   
 - name:
-    detail: "[Panel Speaker] REopt Open Source Webinar"
+    detail: "[Panelist] REopt Open Source Webinar"
     i18n: company_a
     url: https://www.youtube.com/watch?v=oRrXJieAWkM&feature=youtu.be&t=266
   desc:
-    detail: Panelist for REopt Lite's Open Source Review Webinar
+    detail: Panel speaker for REopt Lite's Open Source Review Webinar
     i18n: company_a_desc
   date:
     detail: March 2020
@@ -433,11 +481,11 @@
   present: false
   
 - name:
-    detail: "[Panel Speaker] CMU Energy Week 2020 - AI & Energy Panel"
+    detail: "[Panelist] CMU Energy Week 2020 - AI & Energy Panel"
     i18n: company_a
     url: https://www.cmu.edu/energy-week/agenda/cmu-energy-week-2020_draft-agenda.pdf
   desc:
-    detail: Invited speaker, AI & Energy – Examining the Potential to Bolster Smart Transitions beyond Cybersecurity
+    detail: Panel speaker, AI & Energy – Examining the Potential to Bolster Smart Transitions beyond Cybersecurity
     i18n: company_a_desc
   date:
     detail: March 2020 (postponed due to COVID-19)
@@ -481,17 +529,17 @@
   present: false
 
 - name:
-    detail: "[Panel Speaker] AEE World Conference and Expo 2019"
+    detail: "[Panelist] AEE World Conference and Expo 2019"
     i18n: company_a
     url: https://world.aeecenter.org/speakers/sakshi-mishra/
   desc:
-    detail: DoE Better Plants Program session - discussed REopt Lite
+    detail: Panel speaker at the DoE Better Plants Program session (discussed REopt Lite)
     i18n: company_a_desc
   date:
     detail: September 2019
     i18n: company_a_date
   job:
-    detail: Panel Speaker
+    detail: Highlighted REopt Lite's successes and shared the roadmap of adding new features
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -565,7 +613,7 @@
     i18n: company_a
     url: https://search.dca.ca.gov/details/7500/E/22357/f047a2d2be102d7d6dec74b4be3cf608
   desc:
-    detail: P.E. in Electrical Engineering,  state of Califormia
+    detail: P.E. in Electrical Engineering,  State of Califormia
     i18n: company_a_desc
   date:
     detail: April 2018
@@ -581,7 +629,7 @@
     i18n: company_a
     url: https://drive.google.com/file/d/1-KLpiZ1HRnCRitaMfNP7H-IKi5NrCl-O/view?usp=sharing
   desc:
-    detail: AEP Tulsa Club
+    detail: AEP Tulsa Toastmasters Club
     i18n: company_a_desc
   date:
     detail: May 2017
@@ -619,7 +667,7 @@
     detail: January 2016
     i18n: company_a_date
   job:
-    detail: Joined SPP Voltage Task Force and Advised PSERC projects as Indutry Adviser
+    detail: Joined SPP Voltage Task Force and Advised PSERC projects as Indutry Advisor
     i18n: company_a_job
   icon: fa-plus-square
   present: false
