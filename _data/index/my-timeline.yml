@@ -17,7 +17,7 @@
   present: false
 
 - name:
-    detail: "[Award]Forbes 30 Under 30 (Energy) Honoree (2022)"
+    detail: "[Award] Forbes 30 Under 30 (Energy) Honoree (2022)"
     i18n: company_a
     url: https://www.forbes.com/profile/sakshi-mishra/?sh=579797de49fb
   desc:
@@ -209,7 +209,7 @@
   present: false
 
 - name:
-    detail: "[Podcast guest] So you want to be a Data Scientist?""
+    detail: "[Podcast guest] So you want to be a Data Scientist?"
     i18n: company_a
     url: https://www.soyouwanttobeadatascientist.com/post/episode-11-data-science-in-research-with-sakshi-mishra
   desc:
