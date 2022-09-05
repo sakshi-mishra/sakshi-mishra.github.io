@@ -43,7 +43,7 @@
     detail: November 2021
     i18n: company_a_date
   job:
-    detail: Working on building AI Blocks for Autonomy.
+    detail: Working on building Autonomy Blocks for Autonomous Aerial Mobility applications.
     i18n: company_a_job
   icon: fa-plus-square
   present: false
