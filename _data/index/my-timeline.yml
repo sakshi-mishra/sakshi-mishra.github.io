@@ -17,7 +17,7 @@
   present: false
 
 - name:
-    detail: Forbes 30 Under 30 (Energy) Honoree (2022)
+    detail: "[Award]Forbes 30 Under 30 (Energy) Honoree (2022)"
     i18n: company_a
     url: https://www.forbes.com/profile/sakshi-mishra/?sh=579797de49fb
   desc:
@@ -33,11 +33,11 @@
   present: false
 
 - name:
-    detail: Joined Microsoft
+    detail: "[New Role] Joined Microsoft"
     i18n: company_a
     url: https://www.microsoft.com/en-us/ai/autonomous-systems
   desc:
-    detail: Moved to WA to join Microsoft as Sr. AI Engineer
+    detail: Moved to WA to join Microsoft as Senior AI Engineer
     i18n: company_a_desc
   date:
     detail: November 2021
@@ -49,7 +49,7 @@
   present: false
 
 - name:
-    detail: Stanford Magic Lab - Invited Speaker
+    detail: "[Invited Speaker] Stanford Magic Lab"
     i18n: company_a
     url: https://magiclab.stanford.edu/research/lab
   desc:
@@ -65,7 +65,7 @@
   present: false
 
 - name:
-    detail: Hawaii Data Science Institute - Invited Speaker
+    detail: "[Invited Speaker] Hawaii Data Science Institute"
     i18n: company_a
     url: https://www.youtube.com/watch?v=2jEmf63ZNyQ
   desc:
@@ -81,7 +81,7 @@
   present: false
   
 - name:
-    detail: REEL Award - Featured in Remesh
+    detail: "[Feature] REEL Award by Remesh"
     i18n: company_a
     url: https://drive.google.com/file/d/1KEC6tMYQvae3liU3nvrvWnNQdBDR6Jms/view
   desc:
@@ -97,7 +97,7 @@
   present: false
 
 - name:
-    detail: Women in Data Science - Invited Speaker
+    detail: "[Invited Speaker] Women in Data Science"
     i18n: company_a
     url: https://youtu.be/HyeHN3yBzdQ?t=680
   desc:
@@ -113,7 +113,7 @@
   present: false
 
 - name:
-    detail: Pint of Science - Invited Speaker
+    detail: "[Invited Speaker] Pint of Science"
     i18n: company_a
     url: https://www.youtube.com/watch?v=_C-8LsPh4pY&t=2076s
   desc:
@@ -129,7 +129,7 @@
   present: false
 
 - name:
-    detail: Cleantech Innovator Award by CELI
+    detail: "[Award] Cleantech Innovator Award by CELI"
     i18n: company_a
     url: https://www.linkedin.com/posts/cleanenergyleaders_celi-empower20-activity-6705143561622499328-inbv/
   desc:
@@ -145,7 +145,7 @@
   present: false
   
 - name:
-    detail: Chairman’s Award for Exceptional Performance - NREL
+    detail: "[Award] Chairman’s Award for Exceptional Performance - NREL"
     i18n: company_a
     url: https://drive.google.com/file/d/1snfR1ozMyoz9njqXhdEFQrQyPpjuHspw/view?usp=sharing
   desc:
@@ -161,7 +161,7 @@
   present: false
   
 - name:
-    detail: Q&A with Sakshi Mishra - NREL
+    detail: "[Feature] Q&A with Sakshi Mishra - NREL"
     i18n: company_a
     url: https://www.nrel.gov/news/program/2020/qa-sakshi-mishra-changing-climate-women-in-stem.html
   desc:
@@ -177,7 +177,7 @@
   present: false
 
 - name:
-    detail: Podcast guest - The Alan Turing Institute (Data Driven channel)
+    detail: "[Podcast guest] The Alan Turing Institute (Data Driven channel)"
     i18n: company_a
     url: https://www.youtube.com/watch?v=hYyQJ2Bdhu0&feature=youtu.be
   desc:
@@ -193,11 +193,11 @@
   present: false
 
 - name:
-    detail: International Conference on  'AL and ML Applications in Smart Buildings'
+    detail: "[Keynote Speaker] International Conference on  'AL and ML Applications in Smart Buildings'"
     i18n: company_a
     url: https://drive.google.com/file/d/1IxZH6PsM9bRNDIFOyZOTgVJvXubfHUmI/view?usp=sharing
   desc:
-    detail: Keynote speaker
+    detail: Keynote speaker, VIT University
     i18n: company_a_desc
   date:
     detail: July 2020
@@ -209,7 +209,7 @@
   present: false
 
 - name:
-    detail: Podcast guest - So you want to be a Data Scientist?
+    detail: "[Podcast guest] So you want to be a Data Scientist?""
     i18n: company_a
     url: https://www.soyouwanttobeadatascientist.com/post/episode-11-data-science-in-research-with-sakshi-mishra
   desc:
@@ -225,7 +225,7 @@
   present: false
 
 - name:
-    detail: Women in AI - Launch Denver AI Chapter
+    detail: "[STEM Outreach] Women in AI - Launch Denver AI Chapter"
     i18n: company_a
     url: https://youtu.be/_TrrNEOpX6Y?t=215
   desc:
@@ -241,7 +241,7 @@
   present: false
   
 - name:
-    detail: Podcast guest - Society of Women Engineers (SWE)
+    detail: "[Podcast guest] Society of Women Engineers (SWE)"
     i18n: company_a
     url: https://soundcloud.com/swepodcasts/sustainability-and-tech-go-hand-in-hand
   desc:
@@ -257,7 +257,7 @@
   present: false
   
 - name:
-    detail: Department of Energy - Your AI Career
+    detail: "[Feature] Department of Energy - Your AI Career"
     i18n: company_a
     url: https://www.energy.gov/articles/your-ai-story-sakshi-mishra
   desc:
@@ -273,7 +273,7 @@
   present: false
   
 - name:
-    detail: Science Node - Paths to working with HPC
+    detail: "[Feature] Science Node - Paths to working with HPC"
     i18n: company_a
     url: https://sciencenode.org/feature/Paths%20to%20HPC%20Sakshi%20Mishra.php
   desc:
@@ -289,7 +289,7 @@
   present: false
 
 - name:
-    detail: Energy Systems Integration Group - Spring Summit
+    detail: "[Panel Speaker] Energy Systems Integration Group - Spring Summit"
     i18n: company_a
     url: https://youtu.be/Zy-fvTGdX_M?t=3674
   desc:
@@ -305,7 +305,7 @@
   present: false
   
 - name:
-    detail: The AI Journal
+    detail: "[Feature] The AI Journal"
     i18n: company_a
     url: https://aijourn.com/women-in-tech/
   desc:
@@ -321,7 +321,7 @@
   present: false
   
 - name:
-    detail: Women @ Energy STEM Rising
+    detail: "[Feature] Women @ Energy STEM Rising"
     i18n: company_a
     url: https://www.energy.gov/articles/women-energy-sakshi-mishra
   desc:
@@ -337,7 +337,7 @@
   present: false
   
 - name:
-    detail: REopt Open Source Webinar 
+    detail: "[Panel Speaker] REopt Open Source Webinar"
     i18n: company_a
     url: https://www.youtube.com/watch?v=oRrXJieAWkM&feature=youtu.be&t=266
   desc:
@@ -353,7 +353,7 @@
   present: false
   
 - name:
-    detail: CMU Energy Week 2020 - AI & Energy Panel
+    detail: "[Panel Speaker] CMU Energy Week 2020 - AI & Energy Panel"
     i18n: company_a
     url: https://www.cmu.edu/energy-week/agenda/cmu-energy-week-2020_draft-agenda.pdf
   desc:
@@ -369,7 +369,7 @@
   present: false
   
 - name:
-    detail: REopt Lite API - Open Sourced
+    detail: "[Career Achievement] REopt Lite API - Open Sourced"
     i18n: company_a
     url: https://www.linkedin.com/feed/update/urn:li:activity:6639203033207107584/
   desc:
@@ -385,7 +385,7 @@
   present: false
 
 - name:
-    detail: Seminar at Florida International University
+    detail: "[Invited Speaker] Seminar at Florida International University"
     i18n: company_a
     url: https://www.cis.fiu.edu/lecture_series/smart-grid-evolution-opportunities-for-applying-ai-based-solutions-in-energy-systems/
   desc:
@@ -401,7 +401,7 @@
   present: false
 
 - name:
-    detail: AEE World Conference and Expo 2019
+    detail: "[Panel Speaker] AEE World Conference and Expo 2019"
     i18n: company_a
     url: https://world.aeecenter.org/speakers/sakshi-mishra/
   desc:
@@ -417,7 +417,7 @@
   present: false
 
 - name:
-    detail: REopt made NREL headlines
+    detail: "[Tool Featured] REopt made NREL headlines"
     i18n: company_a
     url: https://www.nrel.gov/news/features/2019/virtual-tools-developed-nrel-create-real-world-savings.html
   desc:
@@ -433,7 +433,7 @@
   present: false
 
 - name:
-    detail: Attended 2018 IEEE Energy Conversion Congress and Expo
+    detail: "[Conference Presentation] Attended 2018 IEEE Energy Conversion Congress and Expo"
     i18n: company_a
     url: https://ieeexplore.ieee.org/abstract/document/8557447
   desc:
@@ -449,7 +449,7 @@
   present: false
   
 - name:
-    detail: CMU Energy and Innovation Club - Seminar
+    detail: "[Seminar Speaker] CMU Energy and Innovation Club - Seminar"
     i18n: company_a
     url: https://twitter.com/CMU_ENERGY/status/1109827210888822791
   desc:
@@ -465,7 +465,7 @@
   present: false
 
 - name:
-    detail: Joined National Renewable Energy Laboratory
+    detail: "[New Role] Joined National Renewable Energy Laboratory"
     i18n: company_a
     url: https://www.nrel.gov/research/sakshi-mishra.html
   desc:
@@ -481,7 +481,7 @@
   present: false
 
 - name:
-    detail: Earned Professional Engineering License
+    detail: "[Career Achievement] Earned Professional Engineering License"
     i18n: company_a
     url: https://search.dca.ca.gov/details/7500/E/22357/f047a2d2be102d7d6dec74b4be3cf608
   desc:
@@ -497,7 +497,7 @@
   present: false
 
 - name:
-    detail: Toastmasters - Competent Communicator
+    detail: "[Award] Toastmasters - Competent Communicator"
     i18n: company_a
     url: https://drive.google.com/file/d/1-KLpiZ1HRnCRitaMfNP7H-IKi5NrCl-O/view?usp=sharing
   desc:
@@ -513,7 +513,7 @@
   present: false
 
 - name:
-    detail: Academic Excellence Award
+    detail: "[Award] Academic Excellence Award"
     i18n: company_a
     url: https://drive.google.com/file/d/1NMggWsATI1UeSMzJlTVamFT_XCADust4/view?usp=sharing
   desc:
@@ -529,7 +529,7 @@
   present: false
 
 - name:
-    detail: Joined American Electric Power
+    detail: "[New Role] Joined American Electric Power"
     i18n: company_a
     url: 
   desc:
