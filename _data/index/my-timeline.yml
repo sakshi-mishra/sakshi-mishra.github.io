@@ -1,6 +1,70 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: "[Keynote Speaker] Joint Institute for Strategic Energy Analysis (JISEA) Annual Meeting "
+    i18n: company_a
+    url: https://www.jisea.org/news/2022/2022-jisea-annual-meeting.html
+  desc:
+    detail: Key Speaker, JISEA (NREL)
+    i18n: company_a_desc
+  date:
+    detail: April 2022
+    i18n: company_a_date
+  job:
+    detail: Topic - Challenges and Opportunities of Integrating AI into Physical Energy Systems
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "[National Judge] Department of Energy - EnergyTech Up challenge"
+    i18n: company_a
+    url: https://www.energy.gov/technologytransitions/energytech-university-prize-2022-competition
+  desc:
+    detail: National judge for inaugural year of EnergyTech UP
+    i18n: company_a_desc
+  date:
+    detail: March 2022
+    i18n: company_a_date
+  job:
+    detail: Challenge sponsored by the Office of Technology Transitions (OTT) at the U.S. Department of Energy (DOE)
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "[Testifier] The U.S. Chamber Commission on Competition, Inclusion, and Innovation (AI Commission)"
+    i18n: company_a
+    url: https://youtu.be/gJE2EIjCZus?t=10431
+  desc:
+    detail: Testimony offered at the AI Commission (Austin, TX) 
+    i18n: company_a_desc
+  date:
+    detail: March 2022
+    i18n: company_a_date
+  job:
+    detail: Testified about state of the AI in context of national AI strategic planning
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "[Advisor] American Made Solar "
+    i18n: company_a
+    url: https://www.youtube.com/watch?v=vMVxkA9n5vM&feature=youtu.be
+  desc:
+    detail: Carnegie Mellon University, Energy Week
+    i18n: company_a_desc
+  date:
+    detail: March 2022
+    i18n: company_a_date
+  job:
+    detail: Industry advisor for American Made Solar at CMU Energy Week
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: "[Career Achievement] IEEE Grade Elevation - Senior Member"
     i18n: company_a
     url: https://drive.google.com/file/d/1c2pwY5YqVBF3Vl2CEAfCZJvOXdZmyf3N/view?usp=sharing
