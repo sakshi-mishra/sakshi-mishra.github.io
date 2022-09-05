@@ -1,7 +1,7 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: \[Award] VIT University Distinguished Alumni - Chancellor’s Special Award
+    detail: "[Award] VIT University Distinguished Alumni - Chancellor’s Special Award"
     i18n: company_a
     url: https://www.linkedin.com/posts/vellore-institute-of-technology_vit-velloreinstituteoftechnology-alumnisakshimishra-activity-6890163974986362880-7C3R
   desc:
