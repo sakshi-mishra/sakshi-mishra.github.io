@@ -1,6 +1,38 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: "[Feature] SheCanCode Community"
+    i18n: company_a
+    url: https://www.shecancode.io/blog/what-does-it-take-to-work-in-ai
+  desc:
+    detail: Feature Titled - What does it take to work in AI?
+    i18n: company_a_desc
+  date:
+    detail: August 2022
+    i18n: company_a_date
+  job:
+    detail: "Interviewed for sharing my experience in AI field along with being a female in the field."
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: "[Career Achievement] Microsoft Project AirSim announced at Farnborough International AirShow"
+    i18n: company_a
+    url: https://www.microsoft.com/en-us/ai/autonomous-systems-project-airsim?activetab=pivot1:primaryr3
+  desc:
+    detail: "Building AI Blocks for Aerial Autonomous Systems, bringing state-of-the-art AI into the innovative product ideation and prototyping efforts as Senior AI engineer-cum-intrapreneur."
+    i18n: company_a_desc
+  date:
+    detail: July 2022
+    i18n: company_a_date
+  job:
+    detail: "Project AirSim: An end-to-end platform for simulating, training, and validating autonomous aerial mobility solutions including last-mile delivery, infrastructure inspection, and Air Taxis/Urban Air Mobility (UAM)."
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: "[Panelist] Predictive Analytics World Climate"
     i18n: company_a
     url: https://predictiveanalyticsworldclimate.com/speakers/2022-north-america/
