@@ -1,5 +1,22 @@
 # timeline section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: "[Feature] Women to Watch by WIA"
+    i18n: company_a
+    url: https://www.womeninanalytics.com/blog-posts/wia-women-to-watch-2022-q3-sakshi-mishra
+  desc:
+    detail: Women to Watch by Women in Analytics Community
+    i18n: company_a_desc
+  date:
+    detail: October 2022
+    i18n: company_a_date
+  job:
+    detail: Recognized for contributions to AI, renewable energy and sustainability
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+  
 - name:
     detail: "[Feature] SheCanCode Community"
     i18n: company_a
