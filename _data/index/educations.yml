@@ -7,13 +7,13 @@
     detail: Ph.D., Electrical and Computer Engineering (on Leave-of-Absence starting Jan 2022)
     i18n: company_a_desc
   date:
-    detail: Sep. 2020 - present
+    detail: Sep. 2020 - Dec 2022
     i18n: company_a_date
   job:
-    detail: Ongoing
+    detail: Dropped out
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Stanford University (Online)
