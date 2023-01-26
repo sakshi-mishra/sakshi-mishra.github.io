@@ -4,7 +4,7 @@
     detail: University of British Columbia (Vancouver, BC, Canada)
     i18n: company_a
   desc:
-    detail: Ph.D., Electrical and Computer Engineering (on Leave-of-Absence starting Jan 2022)
+    detail: Ph.D., Electrical and Computer Engineering (scholarships: Four Year Fellowship and Mitacs)
     i18n: company_a_desc
   date:
     detail: Sep. 2020 - Dec 2022
@@ -25,7 +25,7 @@
     detail: Sep. 2016 - Jan. 2017
     i18n: company_a_date
   job:
-    detail: Awarded the certification
+    detail: Certification awarded
     i18n: company_a_job
   icon: fa-plus-square
   present: false
@@ -40,7 +40,7 @@
     detail: Jan. 2015 - Dec. 2015
     i18n: company_a_date
   job:
-    detail: GPA 4 on 4
+    detail: GPA 4 on 4; degree awarded
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -68,7 +68,7 @@
     detail: Feb. 2014 - June. 2014
     i18n: company_b_date
   job:
-    detail: Bachelor's thesis
+    detail: Bachelor's thesis completed
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -82,7 +82,7 @@
     detail: Aug. 2010 - Jun. 2014
     i18n: company_b_date
   job:
-    detail: GPA 8.35 on 10
+    detail: GPA 8.35 on 10; degree awarded
     i18n: company_b_job
   icon: fa-plus-square
 
