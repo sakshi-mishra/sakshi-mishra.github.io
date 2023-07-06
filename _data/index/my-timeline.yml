@@ -2,6 +2,22 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: "[Interview Feature] SWE AllTogether on Generative AI"
+    i18n: company_a
+    url: https://alltogether.swe.org/2023/07/generative-ai-engineers/
+  desc:
+    detail: Society of Women Engineer's All Together Blog
+    i18n: company_a_desc
+  date:
+    detail: July 2023
+    i18n: company_a_date
+  job:
+    detail: Interviewed to share perspective about leveraging Gen-AI technology
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
     detail: "[Feature] Women to Watch by WIA"
     i18n: company_a
     url: https://www.womeninanalytics.com/blog-posts/wia-women-to-watch-2022-q3-sakshi-mishra
