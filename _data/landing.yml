@@ -6,10 +6,10 @@
   tpl: about.html
   css:
 
-- id: my-timeline
-  i18n: nav.my-timeline
-  name: My-timeline
-  tpl: my-timeline.html
+- id: timeline
+  i18n: nav.timeline
+  name: Timeline
+  tpl: timeline.html
   css: timeline
 
 #- id: research
@@ -57,6 +57,6 @@
 
 - id: quick-links
   i18n: nav.quick-links
-  name: Qucik-links
+  name: Quick-links
   tpl: quick-links.html
   css: contact
