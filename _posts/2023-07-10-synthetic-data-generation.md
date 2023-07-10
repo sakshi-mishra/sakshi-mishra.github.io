@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scalable modular synthetic data generation for advancing aerial autonomy"
-date:   2023-07-11
+date:   2023-07-10
 desc: "Synthetic data generation for Autonomous Systems"
 keywords: "synthetic data, autonomous systems, aerial mobility, machine learning"
 categories: [Autonomous-systems]
@@ -10,6 +10,7 @@ icon: icon-html
 ---
 
 ## Machine Learning models: required datasets
+
 To advance autonomy in vision-based navigation and detection, Machine Learning (ML) models require a vast number of aerial datasets for training. But real-life data collection through deploying drones and iteratively testing models and algorithms based on that data in various preliminaries is tedious, expensive, and limited. This has led to increased reliance on synthetic data.
 
 Existing methods for creating aerial synthetic data are based on limited training simulation scenes, which can cause the model to overfit and, as a result, make it difficult for the model to generalize to unknown environments. The reality gap (sim-to-real) between the simulation and the real world can widen as a result of a lack of diversity in the scenes, which can result in performance issues when transferring models due to distribution differences. Models must be trained over a diverse set of datasets in a variety of simulation environments in order to improve their generalizability to various real-world domains and circumstances.
