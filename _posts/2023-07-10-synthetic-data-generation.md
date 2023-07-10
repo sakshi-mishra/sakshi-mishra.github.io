@@ -9,7 +9,7 @@ tags: [sakshi-mishra, autonomous-systems]
 icon: icon-html
 ---
 
-## Machine Learning models and datasets needed
+## Machine Learning models: required datasets
 To advance autonomy in vision-based navigation and detection, Machine Learning (ML) models require a vast number of aerial datasets for training. But real-life data collection through deploying drones and iteratively testing models and algorithms based on that data in various preliminaries is tedious, expensive, and limited. This has led to increased reliance on synthetic data.
 
 Existing methods for creating aerial synthetic data are based on limited training simulation scenes, which can cause the model to overfit and, as a result, make it difficult for the model to generalize to unknown environments. The reality gap (sim-to-real) between the simulation and the real world can widen as a result of a lack of diversity in the scenes, which can result in performance issues when transferring models due to distribution differences. Models must be trained over a diverse set of datasets in a variety of simulation environments in order to improve their generalizability to various real-world domains and circumstances.
@@ -18,8 +18,10 @@ Existing methods for creating aerial synthetic data are based on limited trainin
 The current synthetic data generation tools have limitations, such as the lack of data augmentation or heavy reliance on manual work and real samples for generating realistic simulation scenes. These limitations restrict the scalability of the data generation workflow and create a challenge in balancing generalizability and scalability. 
 
 ---
+
 **NOTE**:
 The process of effective large-scale dataset generation needs two key elements in place - generalizability and scalability of the mechanism. 
+
 ---
 
 This exactly is a very real challenge in the industry today.
