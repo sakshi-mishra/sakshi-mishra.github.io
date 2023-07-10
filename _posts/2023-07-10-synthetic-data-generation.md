@@ -2,7 +2,7 @@
 layout: post
 title:  "Scalable modular synthetic data generation for advancing aerial autonomy"
 date:   2023-07-11
-desc: "Synthetic data generation for Autonomous Systems - existing challenges and a enhanced framework to address those"
+desc: "Synthetic data generation for Autonomous Systems"
 keywords: "synthetic data, autonomous systems, aerial mobility, machine learning"
 categories: [Autonomous-systems]
 tags: [sakshi-mishra, autonomous-systems]
