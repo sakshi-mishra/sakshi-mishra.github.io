@@ -6,19 +6,22 @@
   title: Forbes 30 Under 30
 
 - src: landing/header_two.png
-  title: Career Trajectory
+  title: Project AirSim Launch 2022
 
 - src: landing/header_three.png
-  title: Project AirSim announcement
+  title: Endeavor - Energy and AI
 
 - src: landing/header_four.jpg
   title: Farnborough International Airshow 2022
 
-- src: landing/header_five.jpg
-  title: energy and ai
+- src: landing/header_five.png
+  title: Career Trajectory
 
-- src: landing/header_six.jpg
-  title: ai and sustainable development
+# - src: landing/header_six.jpg
+#   title: energy and ai
 
-- src: landing/header_seven.jpg
-  title: autonomous and connected systems
+# - src: landing/header_seven.jpg
+#   title: ai and sustainable development
+
+# - src: landing/header_eight.jpg
+#   title: autonomous and connected systems
