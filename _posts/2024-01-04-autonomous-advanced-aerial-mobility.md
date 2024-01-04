@@ -15,6 +15,8 @@ Imagine a future where hopping on a flying taxi to soar above the traffic-clogge
 
 ![Skylines Redefined: Navigating the Future with UAVs and Autonomy Blocks](./images/AAAM-Mishra-et-al.jpg)
 
+> Note: This article has also been published as a Medium [post](https://medium.com/@Sakshi_Mishra/the-future-of-flight-a-dive-into-autonomous-advanced-aerial-mobility-7e6513084a47).
+
 The vision of unmanned aerial vehicles (UAVs) and eVTOL aircraft swiftly navigating our skies, carrying goods, and potentially passengers, may sound like a chapter from a sci-fi novel. However, with the “Autonomy Blocks Framework for Advanced Aerial Mobility,” this vision is edging closer to reality. This comprehensive approach aims to make the skies accessible and safe for autonomous flight, promising a new age of transportation.
 
 ### The Need for Advanced Aerial Mobility
@@ -47,5 +49,3 @@ The heart of this framework beats with the rhythm of artificial intelligence (AI
 In conclusion, this journey isn’t solely about the technological advancements; it’s about redefining the future of transportation to be safer, more efficient, and more accessible. The “Autonomy Blocks Framework for Advanced Aerial Mobility” is paving the way for a future where flying taxis are part of our everyday lives. The skies might not be buzzing with drones and air taxis yet, but the path is being charted, and it’s only a matter of time before we witness the future of flight.
 
 For those intrigued by the prospects of urban aerial mobility and the concept of autonomy blocks, we invite you to explore our full paper and join the conversation shaping the future of urban skies: [Autonomous Advanced Aerial Mobility — An End-to-End Autonomy Framework for UAVs and Beyond](https://ieeexplore.ieee.org/document/10343091).
-
-> Note: This article has also been published on Medium [post](https://medium.com/@Sakshi_Mishra/the-future-of-flight-a-dive-into-autonomous-advanced-aerial-mobility-7e6513084a47).
