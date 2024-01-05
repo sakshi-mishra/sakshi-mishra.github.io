@@ -13,7 +13,7 @@ icon: icon-html
 
 Imagine a future where hopping on a flying taxi to soar above the traffic-clogged streets of your city is an everyday reality. This isn’t a far-fetched dream but a tangible future brought closer by the advent of urban aerial mobility (UAM), fueled by the innovation of electric vertical take-off and landing (eVTOL) vehicles. Our recent publication in IEEE Access, "[Autonomous Advanced Aerial Mobility — An End-to-End Autonomy Framework for UAVs and Beyond](https://ieeexplore.ieee.org/document/10343091)", explores this transformative concept in depth, presenting a practical and holistic approach to reimagining our city skies.
 
-![Skylines Redefined: Navigating the Future with UAVs and Autonomy Blocks](/static/assets/img/blog/AAAM-Mishra-et-al.jpg)
+![Skylines Redefined: Navigating the Future with UAVs and Autonomy Blocks](/static/assets/img/blog/AAAM-Mishra-et-al-resized.jpg)
 
 > Note: This article has also been published as a Medium [post](https://medium.com/@Sakshi_Mishra/the-future-of-flight-a-dive-into-autonomous-advanced-aerial-mobility-7e6513084a47).
 
@@ -36,7 +36,7 @@ The framework comprises four main blocks:
 3. **Planning**: The decision-maker that calculates the best course of action based on the interpreted data.
 4. **Controls**: The executor that carries out the planned actions, controlling the vehicle’s movements.
 
-![Autonomy blocks framework for aerial mobility](./images/Diagram-3.png)
+![Autonomy blocks framework for aerial mobility](/static/assets/img/blog/Diagram-3.png)
 
 Moreover, UAM systems are tasked with overcoming challenges like ensuring safety, enhancing efficiency, achieving scalability, fostering interoperability, and gaining public acceptance. The autonomy blocks are central in addressing these challenges, empowering eVTOL vehicles to communicate and coordinate, optimize flight paths, and adapt to changing urban landscapes, all while integrating with existing transportation systems.
 
